@@ -1,5 +1,5 @@
 /**
- * Defines HangarA.com GruntJS tasks.
+ * Defines ng-kit.helpers GruntJS tasks.
  */
 'use strict';
 
